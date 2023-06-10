@@ -35,7 +35,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "app/page.jsx", "app/layout.jsx", "components/Provider.jsx", "components/PromptCard.jsx", "components/Profile.jsx", "components/Feed.jsx", "components/Form.jsx", "components/Nav.jsx"  ],
   "exclude": [
     "node_modules"
   ]

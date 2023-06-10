@@ -8,7 +8,7 @@ export const metadata = {
   description: "Discover & Share AI Prompts",
 };
 
-const RootLayout = ({ children }: { children: React.ReactNode }) => {
+const RootLayout = ({ children }) => {
   return (
     <html lang="en">
       <body>
